@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ikechukwu-Ugwuanyi
-- 👀 I’m interested in web development and plan to get better at it.
-- 🌱 I’m currently learning Angular JS.
-- 💞️ I’m looking to collaborate on projects with focus on the frontend.
+- 👀 I’m interested in android development and plan to get better at it.
+- 🌱 I’m currently practicing and building meaningful prokects to get better.
+- 💞️ I’m looking to collaborate on projects as well.
 - 📫 How to reach me? @Awesome_iyke_ on Twitter.
 
 <!---
